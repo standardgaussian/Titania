@@ -8,4 +8,4 @@ This project requires the ImpactJS framework to function, which can be found at
 
 ImpactJS is the property of Dominic Szablewski. It is not included.
 
-This project also makes use of Machina (<b>http://machina-js.org/</b>),lodash (<b>https://lodash.com/</b>), and Impact-Tween (<b>https://github.com/nefD/impact-tween</b>),  which are included.
+This project also makes use of Machina (<b>http://machina-js.org/</b>),lodash (<b>https://lodash.com/</b>), Impact-Tween (<b>https://github.com/nefD/impact-tween</b>), and the Joncom Box2D Sugar plugin(<b>https://github.com/Joncom/impact-box2d-sugar</b>),  which are included.
