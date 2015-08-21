@@ -6,4 +6,6 @@ This project requires the ImpactJS framework to function, which can be found at
 
 <b>http://impactjs.com/</b>
 
-ImpactJS is the property of Dominic Szablewski. 
+ImpactJS is the property of Dominic Szablewski. It is not included.
+
+This project also makes use of Machina (<b>http://machina-js.org/</b>) and lodash (<b>https://lodash.com/</b>), which are included.
